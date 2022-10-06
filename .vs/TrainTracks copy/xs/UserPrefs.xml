@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{34A5C1BF-0FEA-E46D-5CAF-2A0EB8354C48}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TrainTracks/Scripts/PuzzleSolver.cs">
+    <Files>
+      <File FileName="Assets/TrainTracks/Scripts/MatrixGeneratorScript.cs" Line="16" Column="6" />
+      <File FileName="Assets/TrainTracks/Scripts/PuzzleSolver.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrainTracks copy" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="48e6c12c-ba80-4595-9464-800e655bb13a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

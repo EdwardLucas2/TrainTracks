@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C5CBC252-47A9-7DD7-4B08-7E8418FEB5AA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PuzzleGraphicsGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PuzzleGraphicsGenerator.cs" Line="168" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrainTracks" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PuzzleGraphicsGenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4390545b-de1e-4b4e-aa3b-eead7ccf3981" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
