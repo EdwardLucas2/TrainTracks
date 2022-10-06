@@ -21,7 +21,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.InputField
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/InputScene.unity:
+    Assets/Scenes/GeneratorScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -47,29 +47,29 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1506}
+      Script: {instanceID: 1500}
     - Class: 114
-      Script: {instanceID: 1706}
+      Script: {instanceID: 1700}
     - Class: 114
-      Script: {instanceID: 2034}
+      Script: {instanceID: 2028}
     - Class: 114
-      Script: {instanceID: 2170}
+      Script: {instanceID: 2164}
     - Class: 114
-      Script: {instanceID: 2336}
+      Script: {instanceID: 2330}
     - Class: 114
-      Script: {instanceID: 2448}
+      Script: {instanceID: 2442}
     - Class: 114
-      Script: {instanceID: 2616}
+      Script: {instanceID: 2610}
     - Class: 114
-      Script: {instanceID: 2658}
+      Script: {instanceID: 2652}
     - Class: 114
-      Script: {instanceID: 2802}
+      Script: {instanceID: 2796}
     - Class: 114
-      Script: {instanceID: 2894}
+      Script: {instanceID: 2888}
     - Class: 114
-      Script: {instanceID: 3272}
+      Script: {instanceID: 3266}
     - Class: 114
-      Script: {instanceID: 4078}
+      Script: {instanceID: 4072}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -539,5 +539,5 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   platform: 2
   scenePathNames:
-  - Assets/Scenes/InputScene.unity
-  playerPath: /Users/edwardlucas/Documents/Unity/TrainTracks/Builds/MacBuilds/MacPuzzleInputBuild.app
+  - Assets/Scenes/GeneratorScene.unity
+  playerPath: /Users/edwardlucas/Documents/Unity/TrainTracks/Builds/MacBuilds/MacRandomGeneratorBuild.app

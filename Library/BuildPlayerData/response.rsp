@@ -7,7 +7,6 @@
 -s="/Applications/Unity/Hub/Editor/2020.3.40f1/Unity.app/Contents/Managed/UnityEngine"
 -s="/Users/edwardlucas/Documents/Unity/TrainTracks/Library/PlayerScriptAssemblies"
 -s="/Users/edwardlucas/Documents/Unity/TrainTracks/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom"
--s="/Users/edwardlucas/Documents/Unity/TrainTracks/Assets/Builds/WindowsBuilds/WinPuzzleInputBuild/Train Tracks_Data/Managed"
 -s="/Applications/Unity/Hub/Editor/2020.3.40f1/Unity.app/Contents/Managed/UnityEngine"
 -s="/Applications/Unity/Hub/Editor/2020.3.40f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api"
 -s="/Applications/Unity/Hub/Editor/2020.3.40f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/Facades"
